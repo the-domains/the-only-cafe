@@ -1,7 +1,7 @@
 name: The Only Cafe
 favicon: null
-layout_spectrum: 0.800060820998624
-typography_spectrum: 0.45291739027015865
+layout_spectrum: 0.7552090629469603
+typography_spectrum: 0.01023646374233067
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.27266708645038307
-  lightness: 0.42971768882125616
-  saturation: 0.034542473033070564
-  rhythmicContrast: 0.09819764364510775
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.0225601305719465
+  lightness: 0.10451501724310219
+  saturation: 0.6708556031808257
+  rhythmicContrast: 0.519810103578493
 purpose: []
